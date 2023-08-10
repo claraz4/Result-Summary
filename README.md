@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop Version:
+My Desktop Version:
 
 ![Desktop Design](desktop-design.png)
 
 
 
-Mobile Version:
+My Mobile Version:
 
 <img src="mobile-design.png" alt="Mobile Design" width="250" height="555">
 
